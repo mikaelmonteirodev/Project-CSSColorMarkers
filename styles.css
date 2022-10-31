@@ -47,5 +47,5 @@ h1 {
 address {
   font-family: 'Courier New', Courier, monospace;
   font-size: medium;
-  text-align: center;
+  text-align: auto;
 }
